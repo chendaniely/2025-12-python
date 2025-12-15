@@ -1,7 +1,5 @@
 # 2025-12-python
 
-# 2024-08-19-python
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chendaniely/2025-12-python/master)
 
 Install Python using Miniforge3: <https://github.com/conda-forge/miniforge>
