@@ -9,7 +9,7 @@ We will be using the Jupyter Notebook (via jupyter lab).
 You can install all the packages needed by opening up the **miniforge3 prompt** (windows) or terminal (mac).
 
 ```bash
-conda install jupyterlab pandas scikit-learn seaborn plotnine
+conda install jupyterlab pandas scikit-learn seaborn plotnine statsmodels polars numba
 ```
 
 Getting the data:
